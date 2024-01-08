@@ -12,9 +12,9 @@ Here we have tried to fetch and store the data in its true storage form into thi
 With our true efforts and research we have tried to give a simple and more exact view of a basic social interconnecting site.
 
 COMPONENTS:
-Schema
-Database
-ER Diagram
+Schema,
+Database,
+ER Diagram,
 Sample Queries
 
 Contributing
